@@ -11,3 +11,6 @@ Sample website with plenty of files for demos
 Intro text
 
 ## Deployment
+
+###Copyright
+copyright 2019
